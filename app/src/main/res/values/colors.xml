@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#25AC92</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#673AB7</color>
+    <color name="buttonContador">#E010BD</color>
+    <color name="fondoApp">#86B6F0</color>
+    <color name="message">#FFFFFF</color>
+    <color name="colorButton2">#E65828</color>
+</resources>

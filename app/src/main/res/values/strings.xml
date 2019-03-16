@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContadorDinamico</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_count">Count</string>
+    <string name="random">Random</string>
+    <string name="message">0</string>
+    <string name="second_view_message">Numero Random</string>
+    <string name="random_number">Entre 0 and %1d</string>
+</resources>
